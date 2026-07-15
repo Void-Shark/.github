@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="./logo.png" alt="Void-Shark Studios" width="900"/>
 
-# 🌌 Void-Shark Studios 🦈
+
+
+
+
+
+
+
+<img src="./banner.png" alt="Void-Shark Studios" width="900"/>
+
+
 
 ### *Crafting unforgettable worlds, one game at a time.*
-
----
 
 [![Website](https://img.shields.io/badge/Website-void--shark.com-00a7b8?style=for-the-badge)](https://void-shark.com)
 [![Games](https://img.shields.io/badge/Games-In_Development-1D9BF0?style=for-the-badge)](#)
